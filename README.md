@@ -19,7 +19,6 @@ This code requires the following:
 * When getting the results in `output/*/*.npy` files, plot the results using `plot_results.py`. For example, the result for `navi_v1.sh` is:
 
 <p align='center'>navigation</p>
------------- 
 ![experimental results for navigation_v3 domain](https://github.com/HeyuanMingong/sllrl/blob/master/exp/comparison_navi1.png) 
 
 

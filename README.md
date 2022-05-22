@@ -18,9 +18,9 @@ This code requires the following:
 * For example, to run the code in the 2D navigation domain, just run the bash script `navi_v1.sh`, also see the usage instructions in the python scripts `main_sllrl.py` and `main_baselines.py'.
 * When getting the results in `output/*/*.npy` files, plot the results using `plot_results.py`. For example, the result for `navi_v1.sh` is:
 
-navigation
--------------
-![experimental results for navigation_v3 domain](https://github.com/HeyuanMingong/sllrl/blob/master/exp/comparison_navi1.png) 
+performance comparison | clustering visualization
+------------- | -------------
+![experimental results for navi_v1 domain](https://github.com/HeyuanMingong/sllrl/blob/master/exp/comparison_navi1.png) | ![clustering visualization for navi_v1 domain](https://github.com/HeyuanMingong/sllrl/blob/master/exp/clustering_visualization_navi1.png) 
 
 
 ### Contact 

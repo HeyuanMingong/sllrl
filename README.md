@@ -15,7 +15,7 @@ This code requires the following:
 * For the Hopper/HalfCheetah/Ant Mujoco domains, the modified Mujoco enviornments are in `envs/mujoco/*`
 
 ### Usage 
-* For example, to run the code in the 2D navigation domain, just run the bash script `navi_v1.sh`, also see the usage instructions in the python scripts `main_sllrl.py`.
+* For example, to run the code in the 2D navigation domain, just run the bash script `navi_v1.sh`, also see the usage instructions in the python scripts `main_sllrl.py` and `main_baselines.py'.
 * When getting the results in `output/*/*.npy` files, plot the results using `plot_results.py`. For example, the result for `navi_v1.sh` is:
 
 navigation
